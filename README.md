@@ -4,7 +4,7 @@ Visual and Net Based Programming
 Semester : 8
 University : RPSU
 
-# Motive
+# Destination 
 * Assignmet
 * Source Code
 * Excercise
